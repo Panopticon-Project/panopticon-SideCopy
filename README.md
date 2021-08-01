@@ -1,3 +1,5 @@
 # panopticon-SideCopy
 
 https://blog.talosintelligence.com/2021/07/sidecopy.html
+
+https://thehackernews.com/2021/07/sidecopy-hackers-target-indian.html

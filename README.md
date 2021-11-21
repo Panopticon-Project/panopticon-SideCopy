@@ -9,3 +9,5 @@ https://thecyberwire.com/podcasts/research-saturday/195/notes
 https://blogs.quickheal.com/cetarat-apt-group-targeting-the-government-agencies/
 
 https://www.bitdefender.com/blog/hotforsecurity/facebook-takes-action-against-four-threat-groups-using-its-platform-from-syria-and-pakistan/
+
+https://www.securityweek.com/hackers-targeted-afghan-officials-facebook-amid-taliban-offensive

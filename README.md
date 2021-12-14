@@ -13,3 +13,5 @@ https://www.bitdefender.com/blog/hotforsecurity/facebook-takes-action-against-fo
 https://www.securityweek.com/hackers-targeted-afghan-officials-facebook-amid-taliban-offensive
 
 https://blog.malwarebytes.com/threat-intelligence/2021/12/sidecopy-apt-connecting-lures-to-victims-payloads-to-infrastructure/
+
+https://heimdalsecurity.com/blog/sidecopy-pakistani-threat-actor-group-targets-afghan-governments/
